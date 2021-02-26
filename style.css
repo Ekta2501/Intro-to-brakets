@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+        background-color: aquamarine;
+    
+}
+#hi {
+    font-family:fantasy;
+   font-size: 20px;
+}
+img {
+    border-style: groove;
+    padding: 2px;
+    border-color: Aqua;
+}
